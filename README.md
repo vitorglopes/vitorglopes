@@ -1,11 +1,11 @@
 # Vitor Lopes
 
 <div style="display: inline_block">
-   <a href="https://github.com/vitorglopes01">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorglopes01&theme=codeSTACKr&layout=compact">
+   <a href="https://github.com/vitorglopes">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorglopes&theme=codeSTACKr&layout=compact">
    </a>
-  <a href="https://github.com/vitorglopes01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorglopes01&show_icons=true&theme=codeSTACKr&include_all_commits=true">
+  <a href="https://github.com/vitorglopes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorglopes&show_icons=true&theme=codeSTACKr&include_all_commits=true">
    </a>
 </div>
 

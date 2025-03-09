@@ -16,7 +16,6 @@ Tenho experiência com:
 ### 📫 Contato  
 
 🔗 LinkedIn: **[in/vitorglopes](https://www.linkedin.com/in/vitorglopes)**  
-📧 E-mail: **vitorlopeson@gmail.com** 
 
 ---
 

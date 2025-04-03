@@ -11,7 +11,7 @@ Tenho experiência com:
 ✅ Boas práticas de desenvolvimento como SOLID e REST  
 ✅ Testes unitários com PHPUnit  
 ✅ Refatoração  
-✅ Segurança com Fortify SCA e WebInspect  
+✅ Segurança com Fortify SAST e DAST 
 
 ### 📫 Contato  
 

@@ -38,8 +38,3 @@ Tenho experiência com:
   <img src="https://github-readme-stats.vercel.app/api?theme=github_dark&show_icons=true&username=vitorglopes&rank_icon=github" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!" alt="Typing SVG" />
-  </a>
-</p>
